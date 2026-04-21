@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ReactNativeUsageStatsModule"]
+  },
+  "android": {
+    "modules": ["com.antar.reactnativeusagestats.ReactNativeUsageStatsModule"]
+  }
+}

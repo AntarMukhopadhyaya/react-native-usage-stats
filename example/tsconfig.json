@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "react-native-usage-stats": ["../src/index"],
+      "react-native-usage-stats/*": ["../src/*"]
+    }
+  }
+}
