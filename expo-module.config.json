@@ -1,9 +1,15 @@
 {
-  "platforms": ["apple", "android", "web"],
+  "platforms": [
+    "android",
+  ],
   "apple": {
-    "modules": ["ReactNativeUsageStatsModule"]
+    "modules": [
+      "ReactNativeUsageStatsModule"
+    ]
   },
   "android": {
-    "modules": ["com.antar.reactnativeusagestats.ReactNativeUsageStatsModule"]
+    "modules": [
+      "com.antar.reactnativeusagestats.ReactNativeUsageStatsModule"
+    ]
   }
 }

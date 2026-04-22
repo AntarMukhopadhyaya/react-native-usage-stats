@@ -1,5 +1,5 @@
 {
-  "name": "react-native-usage-stats",
+  "name": "@antar/react-native-usage-stats",
   "version": "0.1.0",
   "description": "Lightweight Android UsageStats API for React Native and Expo",
   "main": "build/index.js",
@@ -15,11 +15,23 @@
     "open:ios": "xed example/ios",
     "open:android": "open -a \"Android Studio\" example/android"
   },
+  "files": [
+    "build",
+    "android",
+    "src",
+    "!**/__tests__",
+    "!**/*.test.*",
+    "!**/*.spec.*"
+  ],
   "keywords": [
     "react-native",
     "expo",
-    "react-native-usage-stats",
-    "ReactNativeUsageStats"
+    "android",
+    "usage-stats",
+    "usage-stats-manager",
+    "screen-time",
+    "app-usage",
+    "analytics"
   ],
   "repository": "https://github.com/AntarMukhopadhyaya/react-native-usage-stats",
   "bugs": {
