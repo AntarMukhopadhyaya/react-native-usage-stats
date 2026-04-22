@@ -162,6 +162,22 @@ await UsageStats.getAppStandbyBucket();
 
 ---
 
+## 📸 Demo
+
+### 🔹 Events
+
+![Events](./images/demo1.png)
+
+### 🔹 Top Apps
+
+![Top Apps](./images/demo2.png)
+
+### 🔹 Aggregated Usage
+
+![Aggregated](./images/demo3.png)
+
+---
+
 ## 🤝 Contributing
 
 PRs are welcome!
