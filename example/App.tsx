@@ -3,7 +3,7 @@ import { Button, SafeAreaView, ScrollView, Text, View } from "react-native";
 import UsageStats, {
   UsageIntervalType,
   UsageEventType,
-} from "@antar/react-native-usage-stats";
+} from "@antardev/react-native-usage-stats";
 
 /**
  * This example demonstrates how to use the

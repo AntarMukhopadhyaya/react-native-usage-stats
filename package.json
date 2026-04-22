@@ -1,5 +1,5 @@
 {
-  "name": "@antar/react-native-usage-stats",
+  "name": "@antardev/react-native-usage-stats",
   "version": "0.1.0",
   "description": "Lightweight Android UsageStats API for React Native and Expo",
   "main": "build/index.js",
@@ -19,6 +19,7 @@
     "build",
     "android",
     "src",
+    "expo-module.config.json",
     "!**/__tests__",
     "!**/*.test.*",
     "!**/*.spec.*"
