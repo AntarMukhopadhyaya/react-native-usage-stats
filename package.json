@@ -1,6 +1,6 @@
 {
   "name": "@antardev/react-native-usage-stats",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lightweight Android UsageStats API for React Native and Expo",
   "main": "build/index.js",
   "types": "build/index.d.ts",
