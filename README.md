@@ -52,7 +52,7 @@ npx expo run:android
 You must grant usage access manually:
 
 ```ts
-import UsageStats from "@antar/react-native-usage-stats";
+import UsageStats from "@antardev/react-native-usage-stats";
 
 if (!UsageStats.isPermissionGranted()) {
   UsageStats.requestPermission();
